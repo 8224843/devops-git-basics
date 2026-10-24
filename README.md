@@ -1,2 +1,4 @@
-# devops-git-basics
-Git Basics: Local Repository, Commits, and GitHub Push
+# About Me
+
+I am learning DevOps and Git fundamentals.
+I am practicing Git commands, version control, and GitHub workflows.
